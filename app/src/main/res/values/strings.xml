@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAmmar</string>
+    <string name="log_in"> Log In</string>
+    <string name="cancel">Cancel</string>
+    <string name="toast_click"> Selamat Datang %1$s ! </string>
+    <string name="welcome">Selamat Datang %1$s </string>
+    <string name="logout"> Log Out</string>
+</resources>
